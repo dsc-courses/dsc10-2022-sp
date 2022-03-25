@@ -12,13 +12,10 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-<b style='color: red'>Update as of January 31st:</b>
-- Lectures, discussions, and some office hours are now offered in-person. **Lectures are in Center Hall 214, and discussions are in Center Hall 105.** You may still join all lectures and discussions remotely via Zoom by using the link below.
-- In addition to watching recordings by clicking the 🎥 buttons below, you can watch in-person recordings on [podcast.ucsd.edu](https://podcast.ucsd.edu) if you'd prefer.
-- Some office hours are in-person and some are remote; see the [Calendar](../calendar) for more details.
+<b style='color: red'>Disclaimer:</b>
+- This website is a work in progress and nothing you see here is accurate until this disclaimer is removed.
 
-
-[Zoom Link](https://ucsd.zoom.us/j/96971704832){: .btn .btn-blue } [Recordings](https://www.youtube.com/playlist?list=PLDNbnocpJUhZDpPKmmbgXAuZqYYPhC0D-){: .btn .btn-green }
+[Zoom Link for Remote Office Hours](https://ucsd.zoom.us/j/96971704832){: .btn .btn-blue } [Podcasts](https://podcast.ucsd.edu/default.aspx){: .btn .btn-green }
 
 {% for module in site.modules %}
 {{ module }}
