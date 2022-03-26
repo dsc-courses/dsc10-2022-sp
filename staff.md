@@ -7,7 +7,7 @@ nav_order: 7
 
 # Staff 🧑‍🏫
 
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
