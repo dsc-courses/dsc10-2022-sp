@@ -1,26 +1,29 @@
 ---
-    title: Week 3 – Data Visualization
+    title: Week 3 – Data Visualization, Functions
     weekNumber: 3
     days:
-      - date: 2021-1-17
+      - date: 2021-4-11
         events:
           
-          "No Lecture (MLK Day)":
-          "**DIS 2**{: .label .label-disc } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/02-arrays_tables/discussion.ipynb) [🎥](https://youtu.be/Q3mww8m3iIQ)":
-      - date: 2022-1-18
-        events:
-          
-          "**Lab 2**{: .label .label-lab } [**Arrays and DataFrames (due 1/18)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/02-arrays_dataframes/lab.ipynb)":
-      - date: 2022-1-19
-        events:
-          "**LEC 7**{: .label .label-lecture } [Data Visualization 📈](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec07/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhad86gq4r0mUY74wIVB0mp6)":
+          "**LEC 7**{: .label .label-lecture } Data Visualization ":
             "[Notes 14-17](https://notes.dsc10.com/03-visualization/intro.html)"
-                
-      - date: 2022-1-21
+          "**DIS 2**{: .label .label-disc } Arrays and DataFrames":
+
+      - date: 2022-4-12
         events:
-          "**LEC 8**{: .label .label-lecture } [Histograms and Overlaid Plots](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec08/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhYW-g18bLuHaq5p_IvTmrFL)":
+          "**HW 2**{: .label .label-hw } **Arrays and DataFrames (due 11:59pm)** ":
+               
+      - date: 2022-4-13
+        events:
+          "**LEC 8**{: .label .label-lecture } Histograms and Overlaid Plots":
             "[Notes 14-17](https://notes.dsc10.com/03-visualization/intro.html)"
-      - date: 2022-1-22
+
+      - date: 2022-4-15
         events:
-          "**HW 2**{: .label .label-hw } [**Arrays and DataFrames (due 1/22)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/02-arrays_dataframes/homework.ipynb)":
+          "**LEC 9**{: .label .label-lecture } Functions and Apply ":
+            "[Note 12](https://notes.dsc10.com/02-data_sets/apply.html)"
+
+      - date: 2022-4-16
+        events:
+          "**Lab 3**{: .label .label-lab } **Data Visualization and Python Functions (due 11:59pm)** ":
 ---

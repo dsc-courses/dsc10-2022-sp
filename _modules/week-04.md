@@ -1,29 +1,31 @@
 ---
-    title: Week 4 – More DataFrame Operations
+    title: Week 4 – More DataFrame Operations, Probability
     weekNumber: 4
     days:
-      - date: 2022-1-24
+      - date: 2022-4-18
         events:
-          "**LEC 9**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec09/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhbLZ710EKs2dTpvXc4xJ3Fl)":
-            "[Note 12](https://notes.dsc10.com/02-data_sets/apply.html)"
-                
-          "**DIS 3**{: .label .label-disc } [Plotting and Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/03-plotting_apply/discussion.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhaaHKtQ58e33273j1GPoPrA)":
-          "**SUR**{: .label .label-survey } [**Hybrid Format Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfSKwW69edaJnbdH8fJN1C0jUVAu2H6I0TsRQHuJQsOookdig/viewform)":
-      - date: 2022-1-25
-        events:
-          
-          "**Lab 3**{: .label .label-lab } [**Data Visualization and Python Functions (due 1/25)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/03-apply_vis/lab.ipynb)":
-      - date: 2022-1-26
-        events:
-          "**LEC 10**{: .label .label-lecture } [Grouping with Subgroups, Merge](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec10/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhaS6geemFTUtdwH9vNOTxAO)":
+          "**LEC 10**{: .label .label-lecture } Grouping with Subgroups, Merge":
             "[Note 11.4](https://notes.dsc10.com/02-data_sets/groupby.html#subgroups), [13](https://notes.dsc10.com/02-data_sets/merging.html)"
                 
-      - date: 2022-1-28
+          "**DIS 3**{: .label .label-disc } Plotting and Functions":
+
+      - date: 2022-4-19
         events:
-          "**LEC 11**{: .label .label-lecture } [Booleans and Conditionals, Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec11/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhZ-009bsYu5HO8WUa3cISKI)":
+          
+          "**HW 3**{: .label .label-hw } **Data Visualization and Python Functions (due 11:59pm)** ":
+      - date: 2022-4-20
+        events:
+          "**LEC 11**{: .label .label-lecture } Booleans and Conditionals, Iteration ":
             "[CIT 9.1-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
                 
-      - date: 2022-1-30
+                
+      - date: 2022-4-22
         events:
-          "**HW 3**{: .label .label-hw } [**Data Visualization and Python Functions (due 1/30)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/03-functions_visualizations/homework.ipynb)":
+          "**LEC 12**{: .label .label-lecture } Probability":
+            "[Note 18](https://notes.dsc10.com/04-probability_and_simulation/probability_and_simulation.html), [CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
+
+      - date: 2022-4-23
+        events:
+          "**Lab 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability (due 11:59pm)**":
+
 ---
