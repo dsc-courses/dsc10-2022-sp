@@ -10,7 +10,7 @@
           "**DIS 5**{: .label .label-disc } Midterm Solutions":
       - date: 2022-5-3
         events:
-          "**PROJ**{: .label .label-proj } **Midterm Project (due 11:59pm)** ([find a partner](https://docs.google.com/spreadsheets/d/1m5eDcFdYTQq5bu9VRYINZBFgckCyJEOXZFZGZ9bQqKY/edit#gid=0)) ([pair programming](../pair-programming))":
+          "**PROJ**{: .label .label-proj } **Midterm Project (due 11:59pm)** ([find a partner](https://docs.google.com/spreadsheets/d/1Zs1CuHFlhYITrMfD6mSTTH9V27o9Z1WcbYpo0RLvWik/edit?usp=sharing)) ([pair programming](../pair-programming))":
                     
       - date: 2022-5-4
         events:

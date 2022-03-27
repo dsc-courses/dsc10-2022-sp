@@ -19,7 +19,7 @@
 
       - date: 2022-4-2
         events:
-          "**SUR**{: .label .label-survey } **[Beginning of Quarter Survey](https://forms.gle/6BAyrab5GJE6xFfW8) (due 2:59pm)**":         
+          "**SUR**{: .label .label-survey } **[Beginning of Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSfD3rsflNNpMQuL3CZYTEieUA-aIp8zP-3IZS0X-8jWGvkjUg/viewform?usp=sf_link) (due 11:59pm)**":         
           "**Lab 1**{: .label .label-lab } **Expressions and Data Types (due 11:59pm)**":
        
 ---

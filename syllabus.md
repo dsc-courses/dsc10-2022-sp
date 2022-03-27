@@ -29,41 +29,31 @@ Prerequisites: None. This course is an introduction to data science with no prio
 
 ### Lecture
 
-There are two lecture sections.
-- A00: MWF 1-1:50PM
-- B00: MWF 2-2:50PM
-
-**As of January 31st**, you can attend lecture in two ways:
-- By attending in-person at **Center Hall 214**
-- By attending remotely via Zoom (see the course homepage or [Calendar](../Calendar) for the link)
-
-You can attend either lecture section, but if (physical) space fills up, priority will be given to students officially enrolled in that section.
+There are two lecture sections:
+- A00: MWF 10-10:50am ([Center 109](https://map.concept3d.com/?id=1005#!m/163044))
+- B00: MWF 11-11:50am ([Center 109](https://map.concept3d.com/?id=1005#!m/163044))
 
 ### Discussion
 
-Discussion section focuses on solving concrete problems using the techniques introduced in lecture, and is excellent preparation for the week's assignments, as well as exams. We expect that students in this class will have a wide range of backgrounds and relevant experience. If you are new to programming, you will especially benefit from taking advantage of the opportunity to attend discussion section and review the material from lecture. Attendance in discussion is highly recommended but not required.
+There are two discussion sections:
+- A01: Monday 6-6:50pm ([Center 216](https://map.concept3d.com/?id=1005#!m/163044))
+- B01: Monday 7-7:50pm ([Center 216](https://map.concept3d.com/?id=1005#!m/163044))
 
-There are two discussion sections.
-- A01: Monday 7-7:50PM
-- B01: Monday 6-6:50PM
+Discussion section focuses on solving concrete problems using the techniques introduced in lecture, and is excellent preparation for the week's assignments, as well as exams. We expect that students in this class will have a wide range of backgrounds and relevant experience. If you are new to programming, you will especially benefit from taking advantage of the opportunity to attend discussion section and review the material from lecture. 
 
-**As of January 31st**, you can attend lecture in two ways:
-- By attending in-person at **Center Hall 105**
-- By attending remotely via Zoom (see the course homepage or [Calendar](../Calendar) for the link)
+**All lecture and discussion sections will be recorded and posted.** Recordings will be available online shortly afterwards. Attendance is never required, but if you are able, you are strongly encouraged to attend lectures and discussions synchronously to ask questions and to participate in concept-check polls and discussion.
 
-You can attend either discussion section, but if (physical) space fills up, priority will be given to students officially enrolled in that section.
+You can attend either lecture or discussion section, but if space fills up, priority will be given to students officially enrolled in that section.
 
-**All lecture and discussion sections will be recorded and posted.** Recordings will be linked on the course homepage. If you are able, you are encouraged to attend lectures and discussions synchronously to ask questions and to participate in concept-check polls and discussion.
-
-Note that the schedule of courses also includes a designated Laboratory time for both sections (on Wednesday for A00 and Friday for B00) – we will not be utilizing this time for anything this quarter, so you can ignore this Laboratory time and schedule other things during this time.
+Note that the schedule of courses also includes a designated Laboratory time for both sections (on Wednesdays) – we will not be utilizing this time for anything this quarter, so you can ignore this Laboratory time and schedule other things during this time.
 
 ### Office Hours
 
-In order to provide you with help on assignments and concepts, the course staff will be holding several office hours throughout the week. 
+In order to provide you with help on assignments and concepts, the course staff will hold several office hours throughout the week. 
 
-**As of January 31st**, we are offering both in-person and remote office hours. See the [Calendar](../calendar) for the ofifce hours schedule and for details on how to access both types of office hours.
+We are offering both in-person and remote office hours. See the [Calendar](../calendar) for the ofifce hours schedule and for details on how to access both types of office hours.
 
-Office hours are your chance to ask for general help, clarification on assignments, and to review previous assignments.  Course staff will not tell you if your answer is correct, and it is inappropriate to ask. All tutors have previously taken the class, done well, and been trained in how to help you. Here are some really good questions to ask:
+Office hours are your chance to ask for general help, clarification on assignments, and to review previous assignments. Our tutors have previously taken the class, done well, and been trained in how to help you. Course staff will not tell you if your answer is correct, and it is inappropriate to ask.  Here are some really good questions to ask instead:
 - I got confused about a concept in class.  Can you explain it?
 - When the assignment says X, does it mean A or B?
 - My code is giving a weird error - can you help me understand why?
@@ -89,21 +79,21 @@ First and foremost, you will need access to a computer (or tablet with a keyboar
 
 All course content will be linked from this website, but there are a few additional platforms that you'll need to access:
 
-- **Campuswire:** We'll be using Campuswire as our course message and discussion board. More details are in the [Communication](#communication-) section below. If you didn't already get an invitation to our Campuswire course, [sign up here](https://campuswire.com/p/G6950E967) (if it asks you to enter a code, enter 8844).
+- **Campuswire:** We'll be using Campuswire as our course message and discussion board. More details are in the [Communication](#communication-) section below. If you didn't already get an invitation to our Campuswire course, [sign up here](https://campuswire.com/p/GF871D922 ) (if it asks you to enter a code, enter 1663).
 
-- **Gradescope:** You'll submit all assignments and exams to [Gradescope](https://www.gradescope.com/courses/339284). This is where all of your grades will live as well. If you didn't already get an invitation to our Gradescope course, reach out to the instructors.
+- **Gradescope:** You'll submit all assignments and exams to [Gradescope](https://www.gradescope.com/courses/381321). This is where all of your grades will live as well. If you didn't already get an invitation to our Gradescope course, reach out to the instructor.
 
 - **DataHub:** Assignments in this course will involve programming in Python. DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data science and machine learning platform, where you will work on assignments. We will show you how to use it in class.
 
-Make sure you can access all three sites ASAP. It's a good idea to bookmark them, too (though they're all linked at the top of this website). You'll also need a **Zoom** account to access remote course events. You should already have an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html) for more help.
+Make sure you can access all three sites ASAP. It's a good idea to bookmark them, too (though they're all linked at the top of this website). You'll also need a **Zoom** account to access remote office hours. You should already have an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html) for more help.
 
-Note that we will **not 🚫** be using Canvas this quarter for anything.
+Note that we will not be using Canvas this quarter.
 
 ### Forms
 
 There are two Google Forms that we'd like to bring your attention to:
-1. **[Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLScrBSzU2mWiiUkxaw7WTay94NrF7tWK6tgR6Rzg6ISsigEfgA/viewform)**: required for all students.
-2. **[Alternate Final Exam Request Form](https://docs.google.com/forms/d/e/1FAIpQLSft4djvGOQr4y-gstZy35Kn0om_xRFih6rMTV_KW1vwGM7Wcg/viewform)**: only if you have a conflicting final exam. See the [Exams](#exams) section for more details.
+1. **[Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfD3rsflNNpMQuL3CZYTEieUA-aIp8zP-3IZS0X-8jWGvkjUg/viewform?usp=sf_link)**: required for all students.
+2. **[Alternate Final Exam Request Form](https://docs.google.com/forms/d/e/1FAIpQLScpS2DWSxpyncdU3BjO_QRsx42k2-jy_OBr68KFdX_CCeBlNQ/viewform?usp=sf_link)**: only if you have a conflicting final exam. See the [Exams](#exams) section for more details.
 
 ---
 
@@ -111,16 +101,16 @@ There are two Google Forms that we'd like to bring your attention to:
 
 This quarter, we’ll be using Campuswire as our course message board.
 
-If you have a question about anything to do with the course — if you’re stuck on a problem, want clarification on the logistics, or just have a general question about data science — you can make a post on Campuswire. If your post includes your solution to a problem (e.g. code), please make your post private; otherwise, please make your post public so that other students can benefit from the interaction. You can also post anonymously if you prefer. Course staff will regularly check Campuswire and try to answer any questions that you have. You’re also encouraged to answer a question asked by another student if you feel that you know the answer – this is a great way to strengthen your understanding of the material.
+If you have a question about anything to do with the course — if you’re stuck on a problem, want clarification on the logistics, or just have a general question about data science — you can make a post on Campuswire. If your post includes any part of your solution to a problem (e.g. code), please make your post private; otherwise, please make your post public so that other students can benefit from the interaction. You can also post anonymously if you prefer. Course staff will regularly check Campuswire and try to answer any questions that you have. You’re also encouraged to answer a question asked by another student if you feel that you know the answer – this is a great way to strengthen your understanding of the material.
 
-We will **not** be using the DMs functionality on Campuswire; please do not DM any members of course staff. We also ask that you don't email questions about the material (e.g. "Could you look at my code for this question?" or "I don't understand groupby, could you please explain it to me?") or logistics (e.g. "What topics are going to be on the midterm?") to individual course staff members, as those questions are meant for Campuswire. Email will be reserved for more personal questions.
+We will **not** be using the direct message (DM) functionality on Campuswire; please do not DM any members of course staff. We also ask that you use Campuswire instead of email, as this helps us keep all course-related communication in one place.
 
 ---
 
 ## Readings 📕
 
 Our readings will come from two free online sources.
-- [DSC 10 Course Notes ("Notes")](https://notes.dsc10.com), a set of notes written specifically for DSC 10 that use the `babypandas` module.
+- [DSC 10 Course Notes ("Notes")](https://notes.dsc10.com), a set of notes written specifically for DSC 10, using the `babypandas` module.
 - [Computational Inferential Thinking ("CIT")](https://inferentialthinking.com), the book used in Berkeley's version of DSC 10. This book uses slightly different Python commands (it does not use the `babypandas` module), but the underlying concepts are the same.
 
 ---
@@ -133,7 +123,7 @@ Weekly lab assignments are a required part of the course and will help you devel
 
 As you complete the lab, you'll be able to run a sequence of autograder tests, which check to make sure that your answers are correct. If you complete the assignment and all the tests pass, you'll get a perfect score!
 
-To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. You should verify that all of your test cases pass on Gradescope **before the deadline**. Lab assignments will **usually** (but not always!) be due on **Tuesdays at 11:59pm** San Diego time. We will release lab assignments roughly a week before they're due. The lowest lab score is dropped from the grade calculation.
+To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. You should verify that all of your test cases pass on Gradescope **before the deadline**. Lab assignments will be due on **Saturdays at 11:59pm**. We will release lab assignments roughly a week before they're due. The lowest lab score is dropped from the grade calculation.
 
 Labs must be completed and submitted individually, but we encourage you to discuss high-level approaches with others. See the [Collaboration Policy and Academic Integrity](http#collaboration-policy-and-academic-integrity-) section for more details.
 
@@ -145,9 +135,9 @@ An important difference between labs and homeworks lies in the way autograder te
 
 After you submit your homework to Gradescope, and after the deadline for submissions has passed, a new set of hidden tests will be run to make sure that you have the correct answers. In the percent example above, the hidden test might check that your answer equals 56, for example. Your score for the assignment will be based on the results of the hidden tests, which won't be available immediately after submission. So if you see a perfect score upon submission, this only means that you've passed the formatting tests, not the hidden correctness tests that determine your score.
 
-To submit a homework, follow the instructions in the assignment to upload your notebook to Gradescope. Check back after the deadline to see your score, based on the hidden correctness tests. Homeworks will **usually** (but not always!) be due on **Saturdays at 11:59pm** San Diego time. We will release homework assignments roughly a week before they're due. The lowest homework score is dropped from the grade calculation.
+To submit a homework, follow the instructions in the assignment to upload your notebook to Gradescope. Check back after the deadline to see your score, based on the hidden correctness tests. Homeworks will be due on **Tuesdays at 11:59pm**. We will release homework assignments roughly a week before they're due. The lowest homework score is dropped from the grade calculation.
 
-Like labs, homeworks must be completed alone.
+Like labs, homeworks must be completed and submitted individually, but we encourage you to discuss high-level approaches with others. See the [Collaboration Policy and Academic Integrity](http#collaboration-policy-and-academic-integrity-) section for more details.
 
 ### Projects
 
@@ -155,14 +145,14 @@ This class has two projects, a midterm project and a final project. Projects are
 
 Project tests are like homework tests: the provided tests only check if your answer has the correct format, not if it is correct. You'll only be able to see your score on the project after the deadline, once all projects are submitted and the hidden correctness tests have been run.
 
-Unlike labs and homeworks, you may work with a partner on projects. Your partner can be anyone else in the course. If you choose to work with a partner, you should practice [pair programming](../pair-programming). This means that you should work on the assignment synchronously, discussing each problem together and writing each answer together, taking turns of who is in control of the coding. Please read the [section of this website dedicated to pair programming](../pair-programming) to learn more about how this works, and some of the benefits of working in pairs. If working with a partner, only one of you should submit the assignment.
+Unlike labs and homeworks, you may work with a partner on projects. Your partner can be anyone else in either section of the course. If you choose to work with a partner, you must practice [pair programming](../pair-programming). This means that you should work on the assignment synchronously, discussing each problem together and writing each answer together, taking turns of who is in control of the coding. Please read the [section of this website dedicated to pair programming](../pair-programming) to learn more about how this works, and some of the benefits of working in pairs. If working with a partner, only one of you should submit the assignment, and you'll be able to tag your partner in your Gradescope submission.
 
 ### Deadlines and Slip Days
-Labs, homeworks, and projects must be submitted by 11:59pm San Diego time on the due date to be considered on time. You may turn them in as many times as you like before the deadline, and only the most recent submission will be graded, so it's a good habit to submit early and often. If you make a submission after the deadline, your assignment will be counted as late. 
+Labs, homeworks, and projects must be submitted by 11:59pm on the due date to be considered on time. You may turn them in as many times as you like before the deadline, and only the most recent submission will be graded, so it's a good habit to submit early and often. If you make a submission after the deadline, your assignment will be counted as late. 
 
 You have **six "slip days"** to use throughout the quarter. A slip day extends the deadline of any one homework, lab, or project by 24 hours. You cannot turn in any assignments more than 48 hours late, meaning that you cannot use more than 2 slip days on any assignment.
 
-Slip days are designed to be a transparent and predictable source of leniency in deadlines. You can use a slip day if you are too busy to complete an assignment on its original due date (or if you forgot about it. But slip days are also meant for things like the internet (or the DataHub server) going down at 11:58 PM just as you go to submit your homework. Slip days are meant to be used in exceptional circumstances, so you probably should not need to use all six, but if you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out.
+Slip days are designed to be a transparent and predictable source of leniency in deadlines. You can use a slip day if you are too busy to complete an assignment on its original due date. But slip days are also meant for things like the internet (or the DataHub server) going down at 11:58pm just as you go to submit your homework. Slip days are meant to be used in exceptional circumstances, so you probably should not need to use all six, but if you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out. 
 
 **Slip days are applied automatically at the end of the quarter, and you don't need to ask in order to use one.** It's your responsibility to keep track of how many you have left. If you've run out of slip days and submit an assignment late, that assignment may still be graded, but you will receive a 0 on it when we calculate grades at the end of the quarter. However, in the event that you use all six days and submit another assignment late, we will allocate your slip days first to the final project and midterm project, then to your homeworks (in chronological order), and then to your labs (in chronological order). This is done to prevent you from receiving a 0 on, say, the final project, if you've used up all of your slip days at the end of the quarter; in such an example, you'd instead receive a 0 on an earlier assignment that isn't weighted as much in your grade. This policy only helps your grade.
 
@@ -176,7 +166,7 @@ When submitting your work, there are two potential errors to watch out for:
 
 To prevent these issues, it is important that you (1) double-check that you are submitting the right notebook in the right format to Gradescope, and (2) let the autograder run on Gradescope until it shows you under “Public Tests” that all public test cases passed.
 
-If you happen to make one of the above mistakes and the assignment deadline has passed, you should reach out to a staff member and they will notify the tutor in charge of processing assignment submission. Since it’s your responsibility to ensure that all assignments are submitted correctly, you will lose a slip day if we have to resubmit for you.
+If you happen to make one of the above mistakes and the assignment deadline has passed, you should reach out to a staff member and they will notify the tutor in charge of processing assignment submissions. Since it’s your responsibility to ensure that all assignments are submitted correctly, you will lose a slip day if we have to resubmit for you.
 
 ---
 
@@ -184,12 +174,12 @@ If you happen to make one of the above mistakes and the assignment deadline has 
 
 This class has one midterm exam and one final exam.  Exams are cumulative, though the final exam will emphasize material after the midterm.
 
-Exams will be administered remotely through Gradescope. Exams will be open-notes, open-book, open-internet, with the limitation that you must take the exam alone without communicating with any other person.
+Exams will be in-person individual exams during your scheduled lecture. You must attend the exam corresponding to the section you are officially enrolled in.
 
-- Midterm Exam: Wednesday, February 9th, during your assigned lecture slot (50 minutes)
-- Final Exam: Saturday, March 12th, 3-6PM
+- Midterm Exam: Friday, April 29, during lecture (50 minutes)
+- Final Exam: Saturday, June 4, 3-6pm
 
-Both exams must be taken exactly during the scheduled slot. The **only** exception is if you have an overlapping final exam. If you have an overlapping final exam, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSft4djvGOQr4y-gstZy35Kn0om_xRFih6rMTV_KW1vwGM7Wcg/viewform) by Friday, January 13th.
+Exams must be taken at the scheduled time, with exceptions **only** if you have two finals scheduled for the same time slot. If you have another final exam at the same time as ours, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScpS2DWSxpyncdU3BjO_QRsx42k2-jy_OBr68KFdX_CCeBlNQ/viewform?usp=sf_link) before Wednesday, April 6.
 
 ---
 
@@ -200,13 +190,13 @@ To summarize all of the events and deadlines, refer to this general weekly sched
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
 | Nothing! 😎 | Lecture | | Lecture | | Lecture | |
 | | Discussion |  | | |
-| | | <b style="color:red">Lab due</b> | | | | <b style="color:red">Homework due</b> |
+| | | <b style="color:red">Homework due</b> | | | | <b style="color:red">Lab due</b> |
 
 ---
 
 ## Grades 💯
 
-Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
+The table below shows how your mastery of class material will be assessed and how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
 | Lab Assignments | 15% | drop lowest score |
@@ -220,7 +210,7 @@ Note that each lab and each homework assignment will be worth the same amount, r
 
 ### Regrade Requests
 
-If you'd like to request a regrade on any assignment, you must do so within one week of the assignment being graded. If you think there is a problem with the autograder, please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe_SVMq4b2zdgC4PH6-IQ-HL2BKrLjH1EFbE7oCju7EFkqtFA/viewform). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+If you'd like to request a regrade on any assignment, you must do so within one week of the assignment being graded. If you think there is a problem with the autograder, please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLScTNN2IxfCi8wmUVhiLvuGZzWzPzMBbFyyWgxe8UH1uJi-pZg/viewform?usp=sf_link). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
@@ -258,7 +248,7 @@ The following activities are examples of appropriate collaboration and are allow
 - Discussing the general approach to solving homework problems or projects
 - Talking about problem-solving strategies or issues you ran into and how you solved them
 - Discussing the answers to exams with other students who have already taken the exam after the exam is complete
-- Using code provided in class, by the textbook or any other assigned reading or video, with attribution
+- Using code provided in class or in any assigned readings or videos, with attribution
 - Google searching for documentation on Python or babypandas 
 - Working together with other students on assignments without copying or sharing answers
 - Posting a question about your approach to a problem on Campuswire, without sharing your code
