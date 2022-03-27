@@ -183,7 +183,7 @@ Exams must be taken at the scheduled time, with exceptions **only** if you have 
 
 ---
 
-## Weekly Schedule 🗓
+## Weekly Schedule 📆
 
 To summarize all of the events and deadlines, refer to this general weekly schedule (which is subject to change in any given week):
 
@@ -261,7 +261,7 @@ The best way to avoid problems is by using your best judgement and remembering t
 
 ---
 
-## Support 🫂
+## Support 🤗
 
 ### Accomodations
 
