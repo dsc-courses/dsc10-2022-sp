@@ -11,7 +11,7 @@
 
       - date: 2022-4-5
         events:
-          "**HW 1**{: .label .label-hw } [**Causality and Basic Pyt (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync？repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/01-causality/homework1.ipynb)":
+          "**HW 1**{: .label .label-hw } [**Causality and Basic Python (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync？repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/01-causality/homework1.ipynb)":
       - date: 2022-4-6
         events:
           "**LEC 5**{: .label .label-lecture } Accessing, Sorting, and Querying ":
