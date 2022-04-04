@@ -1,0 +1,13 @@
+test = {   'name': 'q1',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> not isinstance(variable, float) # Oops! your input is not a float type\nFalse', 'hidden': False, 'locked': False},
+                                   {'code': '>>> not isinstance(algebraic_expression, int) # Oops! your output is not an integer type\nFalse', 'hidden': False, 'locked': False},
+                                   {'code': '>>> variable == -0.1\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> algebraic_expression != -1 # Make sure the output is rounded DOWN. An example is -3.5 --> -4 after rounding down.\nFalse',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> algebraic_expression == -1\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
