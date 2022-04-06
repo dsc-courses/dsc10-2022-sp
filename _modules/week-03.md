@@ -11,7 +11,7 @@
 
       - date: 2022-4-12
         events:
-          "**HW 2**{: .label .label-hw } **Arrays and DataFrames (due 11:59pm)** ":
+          "**HW 2**{: .label .label-hw } [**Arrays and DataFrames (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/02-arrays_dataframes/homework.ipynb)":
                
       - date: 2022-4-13
         events:
