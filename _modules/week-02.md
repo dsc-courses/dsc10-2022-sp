@@ -19,7 +19,7 @@
                 
       - date: 2022-4-8-14
         events:
-          "**LEC 6**{: .label .label-lecture } More Queries and GroupBy ":
+          "**LEC 6**{: .label .label-lecture } [More Queries and GroupBy](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec06/lecture06.ipynb) ":
             "[Notes 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
       - date: 2022-4-9
         events:
