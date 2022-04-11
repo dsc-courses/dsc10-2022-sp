@@ -7,7 +7,7 @@
           
           "**LEC 7**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec07/lecture07.ipynb) ":
             "[Notes 14-17](https://notes.dsc10.com/03-visualization/intro.html)"
-          "**DIS 2**{: .label .label-disc } Arrays and DataFrames":
+          "**DIS 2**{: .label .label-disc } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/02-arrays_tables/02-discussion.ipynb) ":
 
       - date: 2022-4-12
         events:
