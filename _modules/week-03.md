@@ -5,7 +5,7 @@
       - date: 2021-4-11
         events:
           
-          "**LEC 7**{: .label .label-lecture } Data Visualization ":
+          "**LEC 7**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec07/lecture07.ipynb) ":
             "[Notes 14-17](https://notes.dsc10.com/03-visualization/intro.html)"
           "**DIS 2**{: .label .label-disc } Arrays and DataFrames":
 
