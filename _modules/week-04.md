@@ -12,7 +12,7 @@
       - date: 2022-4-19
         events:
           
-          "**HW 3**{: .label .label-hw } **Data Visualization and Python Functions (due 11:59pm)** ":
+          "**HW 3**{: .label .label-hw } [**Data Visualization and Python Functions (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/03-functions_visualizations/homework3.ipynb)":
       - date: 2022-4-20
         events:
           "**LEC 11**{: .label .label-lecture } Booleans and Conditionals, Iteration ":
