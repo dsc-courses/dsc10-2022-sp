@@ -20,7 +20,7 @@
 
       - date: 2022-4-15
         events:
-          "**LEC 9**{: .label .label-lecture } Functions and Apply ":
+          "**LEC 9**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec09/lecture09.ipynb) ":
             "[Note 12](https://notes.dsc10.com/02-data_sets/apply.html)"
 
       - date: 2022-4-16
