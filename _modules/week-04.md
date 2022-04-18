@@ -7,7 +7,7 @@
           "**LEC 10**{: .label .label-lecture } [Grouping with Subgroups, Merge](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec10/lecture10.ipynb)":
             "[Note 11.4](https://notes.dsc10.com/02-data_sets/groupby.html#subgroups), [13](https://notes.dsc10.com/02-data_sets/merging.html)"
                 
-          "**DIS 3**{: .label .label-disc } Plotting and Functions":
+          "**DIS 3**{: .label .label-disc } [Plotting and Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/03-plotting_apply/discussion3.ipynb) ":
 
       - date: 2022-4-19
         events:
