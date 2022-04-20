@@ -8,14 +8,13 @@
             "[Note 21](https://notes.dsc10.com/05-hypothesis_testing/1_hypothesis_tests.html)"
                 
           "**DIS 5**{: .label .label-disc } Midterm Solutions":
-      - date: 2022-5-3
-        events:
-          "**PROJ**{: .label .label-proj } **Midterm Project (due 11:59pm)** ([find a partner](https://docs.google.com/spreadsheets/d/1Zs1CuHFlhYITrMfD6mSTTH9V27o9Z1WcbYpo0RLvWik/edit?usp=sharing)) ([pair programming](../pair-programming))":
-                    
+       
       - date: 2022-5-4
         events:
           "**LEC 16**{: .label .label-lecture } Hypothesis Testing, Continued":
             "[Note 21](https://notes.dsc10.com/05-hypothesis_testing/1_hypothesis_tests.html), [CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
+
+          "**PROJ**{: .label .label-proj } **Midterm Project (due 11:59pm)** ([find a partner](https://docs.google.com/spreadsheets/d/1Zs1CuHFlhYITrMfD6mSTTH9V27o9Z1WcbYpo0RLvWik/edit?usp=sharing)) ([pair programming](../pair-programming))":
 
       - date: 2022-5-6
         events:
