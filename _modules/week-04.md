@@ -21,7 +21,7 @@
                 
       - date: 2022-4-22
         events:
-          "**LEC 12**{: .label .label-lecture } Probability":
+          "**LEC 12**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec12)":
             "[Note 18](https://notes.dsc10.com/04-probability_and_simulation/probability_and_simulation.html), [CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
 
       - date: 2022-4-23
