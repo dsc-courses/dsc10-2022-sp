@@ -4,7 +4,7 @@
     days:
       - date: 2022-4-25
         events:
-          "**LEC 13**{: .label .label-lecture } Simulation":
+          "**LEC 13**{: .label .label-lecture } [Simulation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec13)":
             "[Note 18](https://notes.dsc10.com/04-probability_and_simulation/probability_and_simulation.html)"
                 
           "**DIS 4**{: .label .label-disc } Control Flow and Probability":
