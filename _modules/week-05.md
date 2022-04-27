@@ -4,7 +4,7 @@
     days:
       - date: 2022-4-25
         events:
-          "**LEC 13**{: .label .label-lecture } [Simulation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec13)":
+          "**LEC 13**{: .label .label-lecture } [Simulation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec13/lecture13.ipynb)":
             "[Note 18](https://notes.dsc10.com/04-probability_and_simulation/probability_and_simulation.html)"
                 
           "**DIS 4**{: .label .label-disc } [Control Flow and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/04-simulation/04-discussion.ipynb)":
@@ -14,7 +14,7 @@
 
       - date: 2022-4-27
         events:
-          "**LEC 14**{: .label .label-lecture } Distributions and Sampling ":
+          "**LEC 14**{: .label .label-lecture } [Distributions and Sampling](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec14/lecture14.ipynb) ":
             "[Notes 19-20](https://notes.dsc10.com/04-probability_and_simulation/1_populations_and_samples.html)"     
 
       - date: 2022-4-29
