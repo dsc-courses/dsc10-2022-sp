@@ -17,7 +17,7 @@
           "**LEC 14**{: .label .label-lecture } [Distributions and Sampling](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec14/lecture14.ipynb) ":
             "[Notes 19-20](https://notes.dsc10.com/04-probability_and_simulation/1_populations_and_samples.html)"     
           
-          "**Review**{: .label .label-disc } [Midterm Review Session](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/midterm_review_session/midterm-review.ipynb), [Zoom Link](https://ucsd.zoom.us/j/91358498887?pwd=RkhNaHhxNzhTRDdGVFFvQ1VwOG83QT09)":
+          "**Review**{: .label .label-disc } [Midterm Review Session](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/midterm_review_session/midterm-review.ipynb), [Zoom Recording (sign in w/ SSO)](https://ucsd.zoom.us/rec/share/HfMNKGuPotBx9NkvDx2eceOzTEOxKGxzUzsr-04TGLHh3JJ2vGJoyblwUna-bGcy.P3FAA0E4Jyl3IHWE), [YouTube Recording](https://youtu.be/B12vxYQzhf0)":
       - date: 2022-4-29
         events:
           "**Exam**{: .label .label-exam } **Midterm Exam (in-person during lecture)**":
