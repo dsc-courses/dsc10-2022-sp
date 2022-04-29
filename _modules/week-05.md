@@ -20,5 +20,5 @@
           "**Review**{: .label .label-disc } [Midterm Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/midterm_review_session/midterm-review.ipynb), [Solutions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/midterm_review_session/midterm-review-solutions.ipynb), [Zoom Recording (sign in w/ SSO)](https://ucsd.zoom.us/rec/share/HfMNKGuPotBx9NkvDx2eceOzTEOxKGxzUzsr-04TGLHh3JJ2vGJoyblwUna-bGcy.P3FAA0E4Jyl3IHWE), [YouTube](https://youtu.be/B12vxYQzhf0)":
       - date: 2022-4-29
         events:
-          "**Exam**{: .label .label-exam } **Midterm Exam (in-person during lecture)**":
+          "**Exam**{: .label .label-exam } **Midterm Exam, [Solutions]((../resources/exams/sp22/midterm_solutions.pdf)**":
 ---
