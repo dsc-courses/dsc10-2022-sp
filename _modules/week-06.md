@@ -23,6 +23,6 @@
 
       - date: 2022-5-7
         events:
-          "**Lab 5**{: .label .label-lab } **Simulation, Sampling, and Hypothesis Testing (due 11:59pm)**":
+          "**Lab 5**{: .label .label-lab } [**Simulation, Sampling, and Hypothesis Testing (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=labs/05-hypothesis_testing/lab5.ipynb)":
 
 ---
