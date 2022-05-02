@@ -7,7 +7,7 @@
           "**LEC 15**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec15/lecture15.ipynb)":
             "[Note 21](https://notes.dsc10.com/05-hypothesis_testing/1_hypothesis_tests.html)"
                 
-          "**DIS 5**{: .label .label-disc } Midterm Solutions":
+          "**DIS 5**{: .label .label-disc } [Midterm Solutions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/05-midterm_solutions/05-discussion.ipynb) ":
        
       - date: 2022-5-4
         events:
