@@ -4,7 +4,7 @@
     days:
       - date: 2022-5-2
         events:
-          "**LEC 15**{: .label .label-lecture } Hypothesis Testing":
+          "**LEC 15**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec15/lecture15.ipynb)":
             "[Note 21](https://notes.dsc10.com/05-hypothesis_testing/1_hypothesis_tests.html)"
                 
           "**DIS 5**{: .label .label-disc } Midterm Solutions":
