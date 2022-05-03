@@ -11,7 +11,7 @@
       
       - date: 2022-5-10
         events:
-          "**HW 5**{: .label .label-hw } **Simulation, Sampling, and Hypothesis Testing (due 11:59pm)**":
+          "**HW 5**{: .label .label-hw } [**Simulation, Sampling, and Hypothesis Testing (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/05-hypothesis/homework5.ipynb)":
 
           
       - date: 2022-5-11
