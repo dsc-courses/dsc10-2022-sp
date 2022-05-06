@@ -18,7 +18,7 @@
 
       - date: 2022-5-6
         events:
-          "**LEC 17**{: .label .label-lecture } Permutation Testing":
+          "**LEC 17**{: .label .label-lecture } [Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec17/lecture17.ipynb)":
             "[Note 22](https://notes.dsc10.com/05-hypothesis_testing/2_permutation_tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
 
       - date: 2022-5-7
