@@ -4,7 +4,7 @@
     days:
       - date: 2022-5-9
         events:
-          "**LEC 18**{: .label .label-lecture } Causality, Bootstrapping":
+          "**LEC 18**{: .label .label-lecture } [Causality, Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec18/lecture18.ipynb)":
             "[Note 23](https://notes.dsc10.com/06-estimation/1_bootstrap.html), [CIT 12.2](https://inferentialthinking.com/chapters/12/2/Causality.html)"
                             
           "**DIS 6**{: .label .label-disc } Hypothesis Testing":
