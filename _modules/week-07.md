@@ -27,5 +27,5 @@
       - date: 2022-5-14
         events:
           
-          "**Lab 6**{: .label .label-lab } **Resampling and the Bootstrap (due 11:59pm)**":
+          "**Lab 6**{: .label .label-lab } [**Resampling and the Bootstrap (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=labs/06-resampling_and_the_bootstrap/lab6.ipynb)":
 ---
