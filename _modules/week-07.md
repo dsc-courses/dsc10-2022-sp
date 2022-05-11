@@ -16,7 +16,7 @@
           
       - date: 2022-5-11
         events:
-          "**LEC 19**{: .label .label-lecture } Percentiles and Confidence Intervals":
+          "**LEC 19**{: .label .label-lecture } [Percentiles and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec19/lecture19.ipynb)":
             "[Notes 24-25](https://notes.dsc10.com/06-estimation/2_confidence_intervals.html)"
       
       - date: 2022-5-13
