@@ -24,6 +24,6 @@
       
       - date: 2022-5-21
         events:
-          "**Lab 7**{: .label .label-lab } **Center, Spread, and the Normal Distribution (due 11:59pm)**":
+          "**Lab 7**{: .label .label-lab } [**Center, Spread, and the Normal Distribution (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=labs/07-su_normal_clt/lab7.ipynb)":
 
 ---
