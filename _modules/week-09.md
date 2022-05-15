@@ -11,7 +11,7 @@
           "**DIS 8**{: .label .label-disc } Bootstrapping, Confidence Intervals, and the Normal Curve":
       - date: 2022-5-24
         events:
-          "**HW 7**{: .label .label-hw } **Confidence Intervals, Normal Distributions, CLT (due 11:59pm)**":          
+          "**HW 7**{: .label .label-hw } [**Confidence Intervals, Normal Distributions, CLT (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/07-clt/homework7.ipynb)":          
 
       - date: 2022-5-25
         events:
