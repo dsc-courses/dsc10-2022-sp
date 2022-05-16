@@ -6,7 +6,7 @@
         events:
           "**LEC 21**{: .label .label-lecture } [Normal Curve](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec21/lecture21.ipynb)":
             "[CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
-          "**DIS 7**{: .label .label-disc } Bootstrap, Confidence Intervals ":
+          "**DIS 7**{: .label .label-disc } [Bootstrap, Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/07-bootstrap_confidence_int/07-discussion.ipynb) ":
 
       - date: 2022-5-17
         events:
