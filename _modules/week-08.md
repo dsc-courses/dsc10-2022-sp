@@ -14,7 +14,7 @@
                 
       - date: 2022-5-18
         events:
-          "**LEC 22**{: .label .label-lecture } Central Limit Theorem":
+          "**LEC 22**{: .label .label-lecture } [Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec22/lecture22.ipynb)  [🎥 Watch Recording](https://youtu.be/vLS30bpEe2Y)":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
 
       - date: 2022-5-20
