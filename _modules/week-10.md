@@ -6,9 +6,9 @@
         events:
           "Memorial Day Holiday (No Lecture)":
 
-      - date: 2022-5-31
+      - date: 2022-6-1
         events:
-          "**PROJ**{: .label .label-proj } **Final Project (due 11:59pm)** ([find a partner](https://docs.google.com/spreadsheets/d/1Zs1CuHFlhYITrMfD6mSTTH9V27o9Z1WcbYpo0RLvWik/edit?usp=sharing)) ([pair programming](../pair-programming))":
+          "**PROJ**{: .label .label-proj } [**Final Project (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=final_project/FinalProject.ipynb) ([find a partner](https://docs.google.com/spreadsheets/d/1Zs1CuHFlhYITrMfD6mSTTH9V27o9Z1WcbYpo0RLvWik/edit?usp=sharing)) ([pair programming](../pair-programming))":
 
       - date: 2022-6-1
         events:
