@@ -19,7 +19,7 @@
 
       - date: 2022-5-20
         events:
-          "**LEC 23**{: .label .label-lecture } Experiment Design":
+          "**LEC 23**{: .label .label-lecture } [Experiment Design](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec23/lecture23.ipynb)":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
       
       - date: 2022-5-21
