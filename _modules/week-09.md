@@ -5,7 +5,7 @@
       - date: 2022-5-23
         events:
 
-          "**LEC 24**{: .label .label-lecture } Prediction and Correlation":
+          "**LEC 24**{: .label .label-lecture } [Prediction and Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec24/lecture24.ipynb)":
             "[CIT 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
                 
           "**DIS 8**{: .label .label-disc } Bootstrapping, Confidence Intervals, and the Normal Curve":
