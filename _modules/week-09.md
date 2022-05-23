@@ -8,7 +8,7 @@
           "**LEC 24**{: .label .label-lecture } [Prediction and Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec24/lecture24.ipynb)":
             "[CIT 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
                 
-          "**DIS 8**{: .label .label-disc } Bootstrapping, Confidence Intervals, and the Normal Curve":
+          "**DIS 8**{: .label .label-disc } [Normal Curve, and CLT](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/08-normal_clt/08-discussion.ipynb)":
       - date: 2022-5-24
         events:
           "**HW 7**{: .label .label-hw } [**Confidence Intervals, Normal Distributions, CLT (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/07-clt/homework7.ipynb)":          
