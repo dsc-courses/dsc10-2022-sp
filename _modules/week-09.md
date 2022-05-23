@@ -25,5 +25,5 @@
               
       - date: 2022-5-28
         events:
-          "**Lab 8**{: .label .label-lab } **Regression (due 11:59pm)**":
+          "**Lab 8**{: .label .label-lab } [**Regression (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=labs/08-regression/lab8.ipynb)":
 ---
