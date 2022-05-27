@@ -20,7 +20,7 @@
                 
       - date: 2022-5-27
         events:
-          "**LEC 26**{: .label .label-lecture } Residuals and Inference":
+          "**LEC 26**{: .label .label-lecture } [Residuals and Inference](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec26/lecture26.ipynb)":
             "[CIT 15.5-15.6](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)"
               
       - date: 2022-5-28
