@@ -16,7 +16,7 @@
 
       - date: 2022-6-3
         events:
-          "**LEC 28**{: .label .label-lecture } Review, Conclusion":
+          "**LEC 28**{: .label .label-lecture } [Review, Conclusion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec28/lecture28.ipynb)":
       - date: 2022-6-4
         events:
           "**SUR**{: .label .label-survey } **[End of Quarter Survey](https://forms.gle/fFrpnRUXjoRdekq96) (due 2:59pm) + [CAPEs](https://cape.ucsd.edu) (due 8:00am) + [TA Evals](https://academicaffairs.ucsd.edu/Modules/Evals) (due 6/6)**":
