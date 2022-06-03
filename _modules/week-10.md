@@ -19,6 +19,6 @@
           "**LEC 28**{: .label .label-lecture } Review, Conclusion":
       - date: 2022-6-4
         events:
-          "**SUR**{: .label .label-survey } **[End of Quarter Survey](https://forms.gle/fFrpnRUXjoRdekq96) + [CAPEs](https://cape.ucsd.edu) (due 2:59pm) + [TA Evals](https://academicaffairs.ucsd.edu/Modules/Evals) (due 6/6)**":
-          "**Exam**{: .label .label-exam } **Final Exam (in-person, 3-6pm)**":
+          "**SUR**{: .label .label-survey } **[End of Quarter Survey](https://forms.gle/fFrpnRUXjoRdekq96) (due 2:59pm) + [CAPEs](https://cape.ucsd.edu) (due 8:00am) + [TA Evals](https://academicaffairs.ucsd.edu/Modules/Evals) (due 6/6)**":
+          "**Exam**{: .label .label-exam } **Final Exam (in-person, 3-6pm)**, [🪑 Seating Assignmnents](https://campuswire.com/c/GF871D922/feed/796)":
 ---
