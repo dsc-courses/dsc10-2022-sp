@@ -20,5 +20,5 @@
       - date: 2022-6-4
         events:
           "**SUR**{: .label .label-survey } **[End of Quarter Survey](https://forms.gle/fFrpnRUXjoRdekq96) (due 2:59pm) + [CAPEs](https://cape.ucsd.edu) (due 8:00am) + [TA Evals](https://academicaffairs.ucsd.edu/Modules/Evals) (due 6/6)**":
-          "**Exam**{: .label .label-exam } **Final Exam (3-6pm)**, [Version A Solutions](../resources/exams/sp22/VersionASolutions.pdf), [Version B Solutions](../resources/exams/sp22/VersionBSolutions.pdf)":
+          "**Exam**{: .label .label-exam } **Final Exam (3-6pm)**, [Version A Solutions](../resources/exams/sp22/VersionAsolutions.pdf), [Version B Solutions](../resources/exams/sp22/VersionBsolutions.pdf)":
 ---
