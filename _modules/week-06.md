@@ -14,7 +14,7 @@
           "**LEC 16**{: .label .label-lecture } [Hypothesis Testing, Continued](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec16/lecture16.ipynb)":
             "[Note 21](https://notes.dsc10.com/05-hypothesis_testing/1_hypothesis_tests.html), [CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
 
-          "**PROJ**{: .label .label-proj } [**Midterm Project (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=midterm_project/MidtermProject.ipynb) ([find a partner](https://docs.google.com/spreadsheets/d/1Zs1CuHFlhYITrMfD6mSTTH9V27o9Z1WcbYpo0RLvWik/edit?usp=sharing)) ([pair programming](../pair-programming))":
+          "**PROJ**{: .label .label-proj } Midterm Project ([find a partner](https://docs.google.com/spreadsheets/d/1Zs1CuHFlhYITrMfD6mSTTH9V27o9Z1WcbYpo0RLvWik/edit?usp=sharing)) ([pair programming](../pair-programming))":
 
       - date: 2022-5-6
         events:
@@ -23,6 +23,6 @@
 
       - date: 2022-5-7
         events:
-          "**Lab 5**{: .label .label-lab } [**Simulation, Sampling, and Hypothesis Testing (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=labs/05-hypothesis_testing/lab5.ipynb)":
+          "**Lab 5**{: .label .label-lab } Simulation, Sampling, and Hypothesis Testing":
 
 ---

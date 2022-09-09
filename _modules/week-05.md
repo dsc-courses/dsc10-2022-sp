@@ -10,7 +10,7 @@
           "**DIS 4**{: .label .label-disc } [Control Flow and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/04-simulation/04-discussion.ipynb), [Supplementary Video](https://youtu.be/GXQfFbA3xN0)":
       - date: 2022-4-26
         events:
-          "**HW 4**{: .label .label-hw } [**DataFrames, Control Flow, and Probability (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/04-control_flow/homework4.ipynb)":     
+          "**HW 4**{: .label .label-hw } DataFrames, Control Flow, and Probability":     
 
       - date: 2022-4-27
         events:
