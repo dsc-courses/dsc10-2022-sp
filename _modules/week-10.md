@@ -9,7 +9,7 @@
       - date: 2022-6-1
         events:
           "**LEC 27**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec27/lecture27.ipynb), [Solutions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec27/lecture27solutions.ipynb)":
-          "**PROJ**{: .label .label-proj } [**Final Project (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=final_project/FinalProject.ipynb) ([find a partner](https://docs.google.com/spreadsheets/d/1Zs1CuHFlhYITrMfD6mSTTH9V27o9Z1WcbYpo0RLvWik/edit?usp=sharing)) ([pair programming](../pair-programming))":
+          "**PROJ**{: .label .label-proj } Final Project ([find a partner](https://docs.google.com/spreadsheets/d/1Zs1CuHFlhYITrMfD6mSTTH9V27o9Z1WcbYpo0RLvWik/edit?usp=sharing)) ([pair programming](../pair-programming))":
       - date: 2022-6-2
         events:
           "**REVIEW**{: .label .label-disc } [Final Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/10-final_review/10-discussion.ipynb) [🎥 Watch Recording](https://www.youtube.com/watch?v=FRCeXi5EmEw)":

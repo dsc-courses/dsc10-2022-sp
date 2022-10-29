@@ -11,7 +11,7 @@
           "**DIS 8**{: .label .label-disc } [Normal Curve, and CLT](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=discussions/08-normal_clt/08-discussion.ipynb)":
       - date: 2022-5-24
         events:
-          "**HW 7**{: .label .label-hw } [**Confidence Intervals, Normal Distributions, CLT (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/07-clt/homework7.ipynb)":          
+          "**HW 7**{: .label .label-hw } Confidence Intervals, Normal Distributions, CLT":          
 
       - date: 2022-5-25
         events:
@@ -25,5 +25,5 @@
               
       - date: 2022-5-28
         events:
-          "**Lab 8**{: .label .label-lab } [**Regression (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=labs/08-regression/lab8.ipynb)":
+          "**Lab 8**{: .label .label-lab } Regression":
 ---

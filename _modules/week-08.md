@@ -10,7 +10,7 @@
 
       - date: 2022-5-17
         events:
-          "**HW 6**{: .label .label-hw } [**Permutation Testing, Percentiles, and Bootstrapping (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/06-bootstrap/homework6.ipynb)":
+          "**HW 6**{: .label .label-hw } Permutation Testing, Percentiles, and Bootstrapping":
                 
       - date: 2022-5-18
         events:
@@ -24,6 +24,6 @@
       
       - date: 2022-5-21
         events:
-          "**Lab 7**{: .label .label-lab } [**Center, Spread, and the Normal Distribution (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=labs/07-su_normal_clt/lab7.ipynb)":
+          "**Lab 7**{: .label .label-lab } Center, Spread, and the Normal Distribution":
 
 ---

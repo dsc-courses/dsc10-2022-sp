@@ -19,7 +19,7 @@
 
       - date: 2022-4-2
         events:
-          "**SUR**{: .label .label-survey } **[Beginning of Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSfD3rsflNNpMQuL3CZYTEieUA-aIp8zP-3IZS0X-8jWGvkjUg/viewform?usp=sf_link) (due 11:59pm)**":         
-          "**Lab 1**{: .label .label-lab } [**Expressions and Data Types (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=labs/01-python_basics/lab.ipynb)":
+          "**SUR**{: .label .label-survey } Beginning of Quarter Survey":         
+          "**Lab 1**{: .label .label-lab } Expressions and Data Types":
        
 ---

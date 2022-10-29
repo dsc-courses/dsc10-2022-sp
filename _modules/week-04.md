@@ -12,7 +12,7 @@
       - date: 2022-4-19
         events:
           
-          "**HW 3**{: .label .label-hw } [**Data Visualization and Python Functions (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=homeworks/03-functions_visualizations/homework3.ipynb)":
+          "**HW 3**{: .label .label-hw } Data Visualization and Python Functions":
       - date: 2022-4-20
         events:
           "**LEC 11**{: .label .label-lecture } [Booleans and Conditionals, Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=lectures/lec11/lecture11.ipynb) ":
@@ -26,6 +26,6 @@
 
       - date: 2022-4-23
         events:
-          "**Lab 4**{: .label .label-lab } [**DataFrames, Control Flow, and Probability (due 11:59pm)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-sp&subPath=labs/04-control_flow/lab4.ipynb)":
+          "**Lab 4**{: .label .label-lab } DataFrames, Control Flow, and Probability":
 
 ---
