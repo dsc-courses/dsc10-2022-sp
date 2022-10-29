@@ -51,7 +51,7 @@ Note that the schedule of courses also includes a designated Laboratory time for
 
 In order to provide you with help on assignments and concepts, the course staff will hold several office hours throughout the week. 
 
-We are offering both in-person and remote office hours. See the [Calendar](../calendar) for the ofifce hours schedule and for details on how to access both types of office hours.
+We are offering both in-person and remote office hours. See the [Calendar](../calendar) for the office hours schedule and for details on how to access both types of office hours.
 
 Office hours are your chance to ask for general help, clarification on assignments, and to review previous assignments. Our tutors have previously taken the class, done well, and been trained in how to help you. Course staff will not tell you if your answer is correct, and it is inappropriate to ask.  Here are some really good questions to ask instead:
 - I got confused about a concept in class.  Can you explain it?
@@ -75,7 +75,7 @@ Your primary motivation when interacting with course staff should be **learning*
 
 ### Technology
 
-First and foremost, you will need access to a computer (or tablet with a keyboard) and a stable internet connection to participate in this course. UCSD has a Laptop Loaner program which may be helpful, but you should also contact us if you have any concerns about access to technology. You will not need a webcam for this course.
+First and foremost, you will need access to a computer (or tablet with a keyboard) and a stable internet connection to participate in this course. UCSD has a Laptop Loaner program which may be helpful, but you should also contact us if you have any concerns about access to technology. You will not need a webcam for this course. 
 
 All course content will be linked from this website, but there are a few additional platforms that you'll need to access:
 
